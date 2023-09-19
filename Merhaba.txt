@@ -1,2 +1,1 @@
-gısuoıgfsuıorgrg
-fgrjısgusg
+print("Merhaba Dünya")
